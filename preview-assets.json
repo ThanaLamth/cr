@@ -1,0 +1,17 @@
+{
+  "preview": "https://jiro.build/preview/template/agency/travel-agency-landing-page-worldline",
+  "assets": [
+    {
+      "url": "https://jiro.build/_next/static/chunks/0r0vgw1bpb.eh.js",
+      "file": "worldline-original.js"
+    },
+    {
+      "url": "https://jiro.build/_next/static/chunks/0lgbs56ye~j_d.css",
+      "file": "0lgbs56ye~j_d.css"
+    },
+    {
+      "url": "https://jiro.build/_next/static/chunks/0rn43j5dzc.cd.css",
+      "file": "0rn43j5dzc.cd.css"
+    }
+  ]
+}
